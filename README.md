@@ -13,7 +13,7 @@ A lightning-fast command-line tool for converting and optimizing images, written
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/convrt.git
+git clone https://github.com/melker12345/convrt.git
 cd convrt
 ```
 
